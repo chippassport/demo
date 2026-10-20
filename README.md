@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/chippassport/demo/blob/main/images/LogoChipPassport.png">
+  <img src="https://github.com/chippassport/demo/blob/main/images/LogoChipPassport.png" alt="ChipPassport Logo" width="180">
 </p>
 
 <h1 align="center">🔗 ChipPassport</h1>
