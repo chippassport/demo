@@ -20,6 +20,8 @@ ChipPassport is built around three capabilities:
 
 ## Current Demonstration — MVP (Validated)
 🎥 Watch the MVP Demo here: https://youtu.be/6FHQr0c99-0
+
+
 The current proof of concept demonstrates a digital traceability workflow through:
 - **API and dashboard:** Python FastAPI backend and Streamlit interface.
 - **Integrity checks:** SHA-256-based verification to identify modifications.
