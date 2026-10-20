@@ -1,14 +1,6 @@
 <p align="center">
-  <img src="https://github.com/chippassport/demo/blob/main/images/LogoChipPassport.png" alt="ChipPassport Logo" width="180">
+  <img src="https://github.com/chippassport/demo/blob/main/images/LogoChipPassport.png" alt="ChipPassport Logo" width="390">
 </p>
-
-<h1 align="center">🔗 ChipPassport</h1>
-<p align="center">
-  <b>Digital Identity • Global Access</b>
-</p>
-
-# ChipPassport
-**Digital Identity • Global Access**
 
 Plataforma SaaS B2B/B2G para la trazabilidad digital del ciclo de vida completo de semiconductores y materiales críticos. Transformamos eventos físicos en evidencia digital inalterable, protegiendo el secreto industrial y garantizando el cumplimiento regulatorio global.1234
 
